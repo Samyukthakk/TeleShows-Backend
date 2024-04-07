@@ -16,3 +16,4 @@ Validations:
     2.docker pull samyukthakirankumar/practice:teleservice-backend
     3.docker run -d -p 9229:9229 --name=teleservice-backend samyukthakirankumar/practice:teleservice-backend
     4.docker run -d -p 8080:80 --name=teleservice-frontend samyukthakirankumar/practice:teleservice-frontend
+    5.Open the application at http://localhost:8080
